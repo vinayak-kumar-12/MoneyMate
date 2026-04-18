@@ -1,4 +1,4 @@
-# 🛡️ Fraud Detection Model — MoneyMate
+# 🛡️ MoneyMate 2.0 Fraud Shield (ML Service)
 
 > ML-powered real-time fraud detection for the MoneyMate (GenZ Money) platform.  
 > Built with **XGBoost**, served via **FastAPI**, integrated into **Node.js/Express**.
