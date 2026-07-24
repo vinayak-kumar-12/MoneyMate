@@ -1,3 +1,2 @@
-//git ignore
-.env
-node_modules
+.env 
+node_module
